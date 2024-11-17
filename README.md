@@ -3,4 +3,4 @@
 - I’m currently learning Python and Machine Learning
 - I’m looking to collaborate in whatever way I can
 - How to reach me: Soon... 📫
-- Pronouns: He 
+- Pronouns: He/him
